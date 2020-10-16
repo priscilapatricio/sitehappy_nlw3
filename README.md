@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="Rocketseat" title="Rocketseat" src=".github/rocketseat.png" width="60px" />
-    <img alt=" title=" src=".github/logo.png" width="190px" />
+    <img alt=" title=" src=".github/logo.png" width="60px" />
 </h1>
 
 <p align="center">
@@ -39,7 +39,7 @@ Viver em prol de fazer o bem.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](<https://www.figma.com/file/c01m3V45BVqvrbJur2EOvM/Happy-Web/duplicate?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/c01m3V45BVqvrbJur2EOvM/Happy-Web/duplicate?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## 🤔 Como contribuir
 
