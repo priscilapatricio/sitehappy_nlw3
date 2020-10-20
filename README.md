@@ -27,15 +27,11 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
-- [SQLite](https://www.sqlite.org/index.html)
-
+- [Git Bash](https://gitforwindows.org/)
 
 ## 💻 Projeto
 
-Crianças precisam de carinho, afeto e atenção, especialmente aquelas que vivem em orfanatos. Pensando nisso surgiu a ideia de criar esta aplicação voltada à visitação dessas crianças, de forma à trazer alegria e estimular além de uma reflexão pessoal, uma reflexão sobre o futuro dessas crianças. Esta aplicação vai ajudar pessoas à irem conhecer e fazer essa visitação à essas crianças. 
-Viver em prol de fazer o bem.
+Crianças precisam de carinho, afeto e atenção, especialmente aquelas que vivem em locais de serviço de acolhimento. Pensando nisso surgiu a ideia de criar esta aplicação voltada à visitação dessas crianças, de forma à trazer alegria e estimular além de uma reflexão pessoal, uma reflexão sobre o futuro dessas crianças. Esta aplicação vai ajudar pessoas à irem conhecer e fazer visitação à essas crianças. Viver em prol de fazer o bem.
 
 ## 🔖 Layout
 
