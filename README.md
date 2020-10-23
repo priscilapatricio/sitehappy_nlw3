@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Git Bash](https://gitforwindows.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 
 ## 💻 Projeto
 
